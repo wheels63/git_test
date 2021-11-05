@@ -35,3 +35,4 @@ Date - poms
 8/11/2021 - 0
 8/12/2021 - 1
 11/3/2021 - 8, completed Project: Landing Page on The Odin Project
+11/4/2021 - 8, got to foundations part two. let's bang it out 8poms
