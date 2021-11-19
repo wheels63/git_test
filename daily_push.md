@@ -38,3 +38,4 @@ Date - poms
 11/4/2021 - 8, got to foundations part two. let's bang it out 8poms
 11/5/2021 - 5
 11/18/2021 - 6, lost track again! stupid open house. become more consisent! then you'll see greater rewards!
+68% completed
