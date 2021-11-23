@@ -40,4 +40,4 @@ Date - poms
 11/18/2021 - 8, lost track again! stupid open house. become more consisent! then you'll see greater rewards! 68% completed
 11/19/2021 - 3;
 11/22/2021 - 2;
-11/23/2021 - 3;
+11/23/2021 - 4;
