@@ -37,7 +37,7 @@ Date - poms
 11/3/2021 - 8, completed Project: Landing Page on The Odin Project
 11/4/2021 - 8, got to foundations part two. let's bang it out 8poms
 11/5/2021 - 5
-11/18/2021 - 8, lost track again! stupid open house. become more consisent! then you'll see greater rewards! 68% completed
+11/18/2021 - 8;
 11/19/2021 - 3;
 11/22/2021 - 2;
 11/23/2021 - 4;
@@ -49,4 +49,5 @@ Date - poms
 12/2/2021 - 8;
 12/3/2021 - 8;
 12/4/2021 - 2;
-12/5/2021 - 1;
+12/5/2021 - 2;
+12/6/2021 - 2;
