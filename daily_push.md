@@ -55,5 +55,6 @@ Date - poms
 12/8/2021 - 1;
 12/9/2021 - 0
 2/22/2022 - fuck yea lets go
-4/23/2022 - flipped the house. fixed the condo. moved. time to go. 
-2
+4/23/2022 - flipped the house. fixed the condo. moved. time to go. 2
+
+4/24/2022 - 2
